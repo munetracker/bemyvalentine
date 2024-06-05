@@ -26,11 +26,21 @@ pnpm run deploy
 
 Made with love in Berlin!❤️
 
+npm run deploy
 
 git add .
-git commit -m "June 6 2024 H"
+git commit -m "June 6 2024 I"
 git push origin master
 
 
-http://127.0.0.1:5174/will-you-be-my-valentine?name=Star-Villaflores
+http://127.0.0.1:5173/bemyvalentine
+http://127.0.0.1:5173/bemyvalentine?name=Star-Villaflores
+http://127.0.0.1:5173/bemyvalentine?name=Star-Villaflores&otherTitle=father-in-law
+
+
+https://munetracker.github.io/bemyvalentine
+https://munetracker.github.io/bemyvalentine?name=Star-Villaflores
+https://munetracker.github.io/bemyvalentine?name=Star-Villaflores&otherTitle=father-in-law
+
+
 
