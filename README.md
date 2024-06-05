@@ -28,7 +28,7 @@ Made with love in Berlin!❤️
 
 
 git add .
-git commit -m "June 6 2024"
+git commit -m "June 6 2024 B"
 git push origin master
 
 
