@@ -29,7 +29,7 @@ Made with love in Berlin!❤️
 npm run deploy
 
 git add .
-git commit -m "June 6 2024 I"
+git commit -m "June 6 2024 J"
 git push origin master
 
 

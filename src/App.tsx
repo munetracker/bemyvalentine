@@ -32,7 +32,7 @@ export default function Page() {
     }
   }, []);
 
-  const yesButtonSize = 16 + noCount * 2;
+  const yesButtonSize = 35 + noCount * 3;
 
   const handleNoClick = () => {
     setNoCount(noCount + 1);
